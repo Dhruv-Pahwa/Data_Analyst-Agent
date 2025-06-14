@@ -45,7 +45,7 @@ Built primarily for backend usage, the system can optionally be integrated with 
 
 ### Option 1: Clone and Install
 
-```bash
+
 git clone https://github.com/your-username/data-analyst-agent.git
 cd data-analyst-agent
 pip install -r requirements.txt
@@ -55,7 +55,7 @@ pip install -r requirements.txt
 2. Retrieve your API key from the dashboard.
 3. Replace the `TOGETHER_API_KEY` in your code:
 
-```python
+python
 TOGETHER_API_KEY = "your_actual_api_key"
 
 ---
