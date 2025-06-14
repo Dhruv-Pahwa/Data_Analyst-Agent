@@ -57,3 +57,14 @@ pip install -r requirements.txt
 
 ```python
 TOGETHER_API_KEY = "your_actual_api_key"
+
+## 🧪 How to Use
+
+1. Place your input file in the `uploaded_files/` directory.
+2. Run the notebook or script.
+
+The agent will:
+
+- 📊 Load and display sample data  
+- 🧠 Call LLaMA to provide an intelligent summary  
+- 📈 Generate visualizations if applicable  
